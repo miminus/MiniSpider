@@ -13,7 +13,7 @@
 ###Cfg-files:
 * urls　　　　&ensp;:  this file save seed-urls (depth - 0)
  15     
- * spider.conf　:  this file save normal configurations for crawling
+* spider.conf　:  this file save normal configurations for crawling
 
 ###Dirs:
  * log　　&ensp;　: this dir is used for saving log-files
